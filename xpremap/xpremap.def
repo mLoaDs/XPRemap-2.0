@@ -1,0 +1,3 @@
+LIBRARY      xpremap
+EXPORTS
+    szModuleName  @1 DATA
