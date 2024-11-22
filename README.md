@@ -1,7 +1,7 @@
 <img width="128" alt="xbox-360-control-game-tool" src="https://github.com/user-attachments/assets/23e3f696-c71f-4920-8ba8-8920c937d7a8">
 
 # XPRemap-2.0
-by the2000
+by the2000 and [cOz]
 
 XPowerRemap (or XPRemap) is a DLL plugin that allows user to configure and remap input buttons.
 
