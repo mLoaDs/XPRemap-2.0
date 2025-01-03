@@ -23,6 +23,6 @@ echo Linking DLL...
 
 REM Create a final XEXDLL
 echo Creating XEXDLL...
-"%BINARYPATH%\imagexex.exe" /nologo /config:"xex.xml" /out:"%OUTNAME%.xex" "%BUILD_DIR%/%OUTNAME%.exe"
+"%BINARYPATH%\imagexex.exe" /nologo /config:"xpremap.xml" /out:"%OUTNAME%.xex" "%BUILD_DIR%/%OUTNAME%.exe"
 
 endlocal
