@@ -5,6 +5,12 @@ by the2000 and [cOz]
 
 XPowerRemap (or XPRemap) is a DLL plugin that allows user to configure and remap input buttons.
 
+
+IMPORTANT NOTE:
+--------------------------------------------------------------------------------
+The pre-compiled XEX included in the bundle is for 12611! To make it work 
+with 9199, re-compile the source with KE_9199 preprocessor symbol.
+
 About:
 --------------------------------------------------------------------------------
 XPowerRemap (or XPRemap) is a DLL plugin that allows user to configure and remap
