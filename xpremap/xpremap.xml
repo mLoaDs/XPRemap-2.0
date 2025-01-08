@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xex>
   <version major="0x02" minor="0x00" build="0x22FB" qfe="0x00"/>
+  <format>
+    <compressed/>
+  </format>
+  <mediatypes>
+    <allpackages/>
+  </mediatypes>
+  <sysdll/>
 </xex>
